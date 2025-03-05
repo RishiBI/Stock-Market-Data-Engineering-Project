@@ -1,0 +1,8 @@
+app_ID :- c3b22546-0c10-40de-b3fa-f89c76d4f6ba
+Object_ID :- 946f07a0-cee3-4a98-a171-6d2638fb194a
+Directory_ID :- 3bbeff75-a748-4c6d-8beb-774ad8ef0be7
+
+
+Secrets
+Value :- FtG8Q~LNP4YqAb7cjDztP5KAFpCnjXSuwuu1Ya7c
+Secret_ID :- 2de16147-ac82-4eec-9f1b-bf517fc14ee1
